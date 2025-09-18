@@ -39,7 +39,7 @@ img {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   color: #fff;
-  background: linear-gradient(135deg, #ff512f, #dd2476);
+  background: #4ECCA3;
   border: none;
   border-radius: 10px;
   cursor: pointer;
@@ -51,7 +51,7 @@ img {
 #rollBtn:hover {
   transform: translateY(-3px) scale(1.05);
   box-shadow: 0 8px 18px rgba(0, 0, 0, 0.4);
-  background: linear-gradient(135deg, #ff9966, #ff5e62); 
+  background: teal; 
 }
 
 #rollBtn:active {
